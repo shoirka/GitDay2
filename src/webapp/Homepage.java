@@ -6,5 +6,5 @@ public class Homepage {
 
     // navigation menu
 
-    // logo
+    // logo set
 }
