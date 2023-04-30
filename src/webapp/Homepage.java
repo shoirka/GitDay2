@@ -7,4 +7,6 @@ public class Homepage {
     // navigation menu
 
     // logo set
+
+    // footer
 }
